@@ -108,6 +108,8 @@ cl=3.1622e18
   automatic_scaling = true
   verbose = true
   compute_scaling_once = false
+  nl_rel_tol = 1e-11
+  l_tol = 1e-15
 []
 
 [Outputs]
