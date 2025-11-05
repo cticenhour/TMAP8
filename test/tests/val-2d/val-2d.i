@@ -40,7 +40,7 @@ trap_per_free_2 = 1e4 # (-)
 trap_per_free_3 = 1e4 # (-)
 width_trap1 = '${units 10e-9 m -> mum}'
 
-# thermal parameters
+# Thermal parameters
 temperature_low = '${units 300 K}'
 temperature_high = '${units 1273 K}'
 temperature_rate = '${units ${fparse 50 / 60} K/s}'
